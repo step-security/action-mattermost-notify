@@ -31,7 +31,7 @@
     "testPathIgnorePatterns": ["/node_modules/", "/dist/"]
   },
   "dependencies": {
-    "@actions/core": "^2.0.1",
+    "@actions/core": "^3.0.1",
     "@actions/http-client": "^3.0.0",
     "axios": "^1.7.2"
   },
